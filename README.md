@@ -4,7 +4,7 @@
 > <br />
 > Course Unit: [Introdução à Ciência de Dados](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=543588) (Introduction to Data Science), 4th year
 > <br />
-> Course: **MIA** (Faculty of Engineering/Science of the University of Porto)
+> Course: **Msc. in Artificial Intelligence**
 > <br />
 > Faculty: **FCUP / FEUP**
 > <br />
